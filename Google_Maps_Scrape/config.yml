@@ -1,0 +1,7 @@
+api_key : #
+meta_base : 'https://maps.googleapis.com/maps/api/streetview/metadata?'
+pic_base : 'https://maps.googleapis.com/maps/api/streetview?'
+size : "640x640"
+fov : 100
+tilt : -30
+max_sleep_time : 600
